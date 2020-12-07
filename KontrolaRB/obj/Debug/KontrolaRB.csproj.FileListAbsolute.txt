@@ -1,0 +1,10 @@
+D:\Zadace\RadioButtonKontrola\KontrolaRB\bin\Debug\KontrolaRB.exe.config
+D:\Zadace\RadioButtonKontrola\KontrolaRB\bin\Debug\KontrolaRB.exe
+D:\Zadace\RadioButtonKontrola\KontrolaRB\bin\Debug\KontrolaRB.pdb
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.csprojAssemblyReference.cache
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.Form1.resources
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.Properties.Resources.resources
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.csproj.GenerateResource.cache
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.csproj.CoreCompileInputs.cache
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.exe
+D:\Zadace\RadioButtonKontrola\KontrolaRB\obj\Debug\KontrolaRB.pdb
